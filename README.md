@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Lakshin <br> Backend developer and currently a 4th year CSE student<br>  🌱 I’m currently learning PostgreSQL <br><br> 💬 Ask me about:   MongooDB, NodeJS, DSA <br><br> 📫 How to reach me: lakshin2563@gmail.com
+Hey, I am Lakshin <br> Backend developer and currently a Final year CSE student<br>  🌱 I’m currently learning PostgreSQL <br><br> 💬 Ask me about:   MongooDB, NodeJS, DSA <br><br> 📫 How to reach me: lakshin2563@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
