@@ -7,7 +7,6 @@ Hey, I am Lakshin <br> Backend developer and currently a Final year CSE student<
 </p>
 
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkxMWh3ZmVkejVnaWx3aTBzZmVjNXJxZXd4cHl5ZnJscHEzcWh0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0y1iydyiKWCQ/giphy.gif">
 
 - 👨‍💻 IEEE Student Branch , Nirma University, Technical Head
 
