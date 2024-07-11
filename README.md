@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Lakshin <br> Backend developer and currently a Final year CSE student<br> 🔭  My Second Account LakshinPathak  🌱 I’m currently learning App Development <br><br> 💬 Ask me about:   MongooDB, NodeJS, DSA <br><br> 📫 How to reach me: lakshin2563@gmail.com
+Hey There, I am Lakshin <br> Backend developer and currently a Final year CSE student<br> 🔭  My Second Account LakshinPathak  🌱 I’m currently learning App Development <br><br> 💬 Ask me about:   MongooDB, NodeJS, DSA <br><br> 📫 How to reach me: lakshin2563@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
